@@ -36,7 +36,7 @@ Alt:
 
 git clone https://github.com/Kid-Seven-7/CIB-Digital-Tech-Front-End-Assessment.git
 
-npm run startServer;
+npm run startServer
 
 npm run start (Note: this needs to be run on a differet terminal from the root)
 
